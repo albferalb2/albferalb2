@@ -8,11 +8,12 @@
 
 ## 👨‍💻 About Me:
 
-- 💻 I am passionate about **software development** and technology.
-- 🎮 Currently learning and exploring **game development** (Unity, C#).
-- 🌐 I love working with **web and mobile applications**.
-- 🚀 Always open to new challenges and collaboration!
-- 📚 Lifelong learner, curious and motivated.
+-💻 Full stack developer passionate about software development and technology.
+-🎮 Currently learning and exploring game development with Unity and C#.
+-🌐 Experienced in building web and mobile applications, from backend to frontend.
+-🚀 Open to new challenges, team collaboration, and constant improvement.
+-📚 Fast learner, curious, and highly motivated to keep growing every day.
+-🛠️ Always committed to solving problems,I don’t stop until I find a solution.
 
 ---
 ## 🕒 Currently
