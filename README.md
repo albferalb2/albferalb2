@@ -79,9 +79,9 @@
   <li><strong>Frontend:</strong> Android SDK, Material Design 3, Jetpack ViewModel</li>
   <li><strong>Backend:</strong> Firebase Authentication, Firebase Realtime Database, Firebase Storage</li>
   <li><strong>Database:</strong> Firebase Realtime Database</li>
-  <li><strong>Deployment:</strong> APK (manual), Firebase Hosting (for assets)</li>
-  <strong>Project Status:</strong> Completed</li>
-  <strong>Completion Date:</strong> May 2025</li>
+  <li><strong>Deployment:</strong> APK (manual), Firebase Hosting (for assets)</li><br>
+  <strong>Project Status:</strong> Completed</li><br>
+  <strong>Completion Date:</strong> Jun 2025</li>
 </ul>
 
 
