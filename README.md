@@ -60,7 +60,7 @@
 <h3>Tools & Others</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24"/> Git</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"/> GitHub</span>
+<span><img src="https://cdn.simpleicons.org/github/ffffff" width="24"/> GitHub</span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="24"/> Android</span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="24"/> Godot</span>
 </p>
