@@ -84,10 +84,6 @@
   <strong>Completion Date:</strong> Jun 2025</li>
 </ul>
 
-<h3><a href="https://github.com/albferalb2/Yubikey-Security" target="_blank" style="text-decoration: none; color: #3B82F6;">Yubikey-Security</a></h3>
-<p>
-  This cybersecurity project simulates the integration of YubiKey-based two-factor authentication (2FA) in a desktop application. It demonstrates how hardware security tokens can be used to enhance access control, preventing unauthorized access and ensuring user identity through secure key validation.
-</p>
 
 <h3><a href="https://github.com/albferalb2/Yubikey-Security" target="_blank" style="text-decoration: none; color: #3B82F6;">Yubikey-Security</a></h3>
 <p>
