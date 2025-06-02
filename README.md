@@ -69,7 +69,7 @@
 ---
 ## 👩‍💻 Projects:
 
-<h3>Casehive-DAM</h3>
+<h3><a href="https://github.com/albferalb2/Casehive-DAM" target="_blank" style="text-decoration: none; color: #3B82F6;">Casehive-DAM</a></h3>
 <p>
   This Android app was created to simplify the process of browsing and managing real estate listings. Users can search for homes by name, location, or price; save favorites; post their own properties; and chat in real-time with sellers. The app includes user authentication, support for multiple languages, and a dynamic price calculator based on selected dates and occupancy.
 </p>
@@ -84,7 +84,6 @@
   <li><strong>Completion Date:</strong> May 2025</li>
 </ul>
 
-<p><a href="https://github.com/albferalb2/Casehive-DAM" target="_blank">🔗 View on GitHub</a></p>
 
 
 ---
