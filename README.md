@@ -24,29 +24,7 @@
 ---
 ## 💻 Tech Stack:
 
-<style>
-  .tech-section {
-    margin-bottom: 1.5rem;
-  }
 
-  .tech-badge {
-    display: inline-flex;
-    align-items: center;
-    padding: 3px 8px;
-    margin: 5px;
-    border-radius: 6px;
-    font-size: 13px;
-    font-family: sans-serif;
-    background-color: #2d2d2d;
-    color: white;
-    gap: 5px;
-  }
-
-  .tech-badge img {
-    width: 14px;
-    height: 14px;
-  }
-</style>
 
 <!-- Frontend -->
 <div class="tech-section">
