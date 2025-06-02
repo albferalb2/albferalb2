@@ -95,7 +95,7 @@
   <li><strong>Backend:</strong> Node.js</li>
   <li><strong>Security:</strong> YubiKey, FIDO U2F simulation</li>
   <li><strong>Deployment:</strong> Electron Packager (cross-platform desktop app)</li><br>
-  <strong>Project Status:</strong> Completed</li>
+  <strong>Project Status:</strong> Completed</li><br>
   <strong>Completion Date:</strong> March 2025</li>
 </ul>
 
