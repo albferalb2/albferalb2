@@ -69,16 +69,23 @@
 ---
 ## 👩‍💻 Projects:
 
-<ul style="list-style: none; padding-left: 0;">
-  <li style="margin-bottom: 16px;">
-    <strong><a href="https://github.com/albferalb2/Casehive-DAM" target="_blank" style="text-decoration: none; color: #3B82F6;">Casehive-DAM</a></strong><br />
-    <span>
-      A real estate Android app built with Kotlin and Firebase that allows users to search, post, and favorite homes. It includes authentication, real-time database integration, a chat system between buyers and sellers, dynamic price calculation, and multi-language support.
-    </span>
-  </li>
+<h3>Casehive-DAM</h3>
+<p>
+  This Android app was created to simplify the process of browsing and managing real estate listings. Users can search for homes by name, location, or price; save favorites; post their own properties; and chat in real-time with sellers. The app includes user authentication, support for multiple languages, and a dynamic price calculator based on selected dates and occupancy.
+</p>
 
-  <!-- Add more projects below following the same structure -->
+<h4>Implemented Technologies</h4>
+<ul>
+  <li><strong>Frontend:</strong> Android SDK, Material Design 3, Jetpack ViewModel</li>
+  <li><strong>Backend:</strong> Firebase Authentication, Firebase Realtime Database, Firebase Storage</li>
+  <li><strong>Database:</strong> Firebase Realtime Database</li>
+  <li><strong>Deployment:</strong> APK (manual), Firebase Hosting (for assets)</li>
+  <li><strong>Project Status:</strong> Completed</li>
+  <li><strong>Completion Date:</strong> May 2025</li>
 </ul>
+
+<p><a href="https://github.com/albferalb2/Casehive-DAM" target="_blank">🔗 View on GitHub</a></p>
+
 
 ---
 ## 📊 My Stats:
