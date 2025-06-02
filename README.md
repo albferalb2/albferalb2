@@ -98,7 +98,9 @@
   <li><strong>Storage:</strong> Browser Local Storage</li>
   <li><strong>Deployment:</strong> Static HTML (GitHub Pages compatible)</li><br>
   <strong>Project Status:</strong> Completed</li><br>
-  <strong>Completion Date:</strong> March 2025</li>
+  <strong>Completion Date:</strong> March 2025</li><br>
+  <p><a href="https://albferalb2.github.io/Yubikey-Security/" target="_blank">🌐 Live Demo</a></p>
+
 </ul>
 
 
