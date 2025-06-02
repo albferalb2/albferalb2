@@ -89,12 +89,18 @@
   This cybersecurity project simulates the integration of YubiKey-based two-factor authentication (2FA) in a desktop application. It demonstrates how hardware security tokens can be used to enhance access control, preventing unauthorized access and ensuring user identity through secure key validation.
 </p>
 
+<h3><a href="https://github.com/albferalb2/Yubikey-Security" target="_blank" style="text-decoration: none; color: #3B82F6;">Yubikey-Security</a></h3>
+<p>
+  A browser-based simulation of YubiKey registration and management using the WebAuthn API. This project allows users to assign custom IDs to hardware security keys (like YubiKey), save credentials to local storage, and validate duplicates. The interface provides live feedback and ensures secure credential handling via `navigator.credentials.create()` and cryptographic challenges.
+</p>
+
 <h4>Implemented Technologies</h4>
 <ul>
-  <li><strong>Frontend:</strong> Electron, HTML, CSS, JavaScript</li>
-  <li><strong>Backend:</strong> Node.js</li>
-  <li><strong>Security:</strong> YubiKey, FIDO U2F simulation</li>
-  <li><strong>Deployment:</strong> Electron Packager (cross-platform desktop app)</li><br>
+  <li><strong>Frontend:</strong> HTML5, CSS3 (vanilla), JavaScript (ES6)</li>
+  <li><strong>Backend:</strong> — (all in-browser logic using WebAuthn)</li>
+  <li><strong>Security:</strong> WebAuthn API, FIDO2 simulation</li>
+  <li><strong>Storage:</strong> Browser Local Storage</li>
+  <li><strong>Deployment:</strong> Static HTML (GitHub Pages compatible)</li><br>
   <strong>Project Status:</strong> Completed</li><br>
   <strong>Completion Date:</strong> March 2025</li>
 </ul>
