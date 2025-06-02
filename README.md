@@ -22,28 +22,71 @@
 - 🌱 Learning: [C++,C#,Unity,Chinese ]
 
 ---
-## 🛠️ Languages and Tools:
+## 💻 Tech Stack:
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> JavaScript</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24"/> TypeScript</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/> HTML5</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24"/> CSS3</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24"/> React</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24"/> Node.js</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24"/> Java</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="24"/> Kotlin</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="24"/> Firebase</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="24"/> Android</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> Python</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="24"/> Godot</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24"/> Git</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"/> GitHub</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24"/> MySQL</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24"/> PostgreSQL</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="24"/> Bootstrap</span>
-  <span><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="24"/> Postman</span>
-</p>
+<!-- Estilos opcionales para que se vea como en la imagen -->
+<style>
+  .tech-section {
+    margin-bottom: 1.5rem;
+  }
+
+  .tech-badge {
+    display: inline-flex;
+    align-items: center;
+    padding: 4px 10px;
+    margin: 5px;
+    border-radius: 6px;
+    font-size: 14px;
+    font-family: sans-serif;
+    background-color: #2d2d2d;
+    color: white;
+    gap: 6px;
+  }
+
+  .tech-badge img {
+    width: 18px;
+    height: 18px;
+  }
+</style>
+
+<!-- Frontend -->
+<div class="tech-section">
+  <h3>Frontend</h3>
+  <span class="tech-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />HTML5</span>
+  <span class="tech-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />CSS3</span>
+  <span class="tech-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />JavaScript</span>
+  <span class="tech-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />TypeScript</span>
+  <span class="tech-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />React</span>
+  <span class="tech-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />Bootstrap</span>
+</div>
+
+<!-- Backend -->
+<div class="tech-section">
+  <h3>Backend</h3>
+  <span class="tech-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />Node.js</span>
+  <span class="tech-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />Java</span>
+  <span class="tech-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />Kotlin</span>
+  <span class="tech-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />Python</span>
+  <span class="tech-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />Firebase</span>
+</div>
+
+<!-- Base de datos -->
+<div class="tech-section">
+  <h3>Bases de datos</h3>
+  <span class="tech-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />MySQL</span>
+  <span class="tech-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />PostgreSQL</span>
+</div>
+
+<!-- Otros -->
+<div class="tech-section">
+  <h3>Otros</h3>
+  <span class="tech-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />Git</span>
+  <span class="tech-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />GitHub</span>
+  <span class="tech-badge"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />Postman</span>
+  <span class="tech-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />Godot</span>
+  <span class="tech-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />Android</span>
+</div>
+
 
 
 
