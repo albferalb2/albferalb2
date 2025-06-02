@@ -24,7 +24,6 @@
 ---
 ## 💻 Tech Stack:
 
-<!-- Estilos opcionales para que se vea como en la imagen -->
 <style>
   .tech-section {
     margin-bottom: 1.5rem;
@@ -33,19 +32,19 @@
   .tech-badge {
     display: inline-flex;
     align-items: center;
-    padding: 4px 10px;
+    padding: 3px 8px;
     margin: 5px;
     border-radius: 6px;
-    font-size: 14px;
+    font-size: 13px;
     font-family: sans-serif;
     background-color: #2d2d2d;
     color: white;
-    gap: 6px;
+    gap: 5px;
   }
 
   .tech-badge img {
-    width: 18px;
-    height: 18px;
+    width: 14px;
+    height: 14px;
   }
 </style>
 
@@ -86,6 +85,7 @@
   <span class="tech-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />Godot</span>
   <span class="tech-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />Android</span>
 </div>
+
 
 
 
