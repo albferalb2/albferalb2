@@ -80,8 +80,8 @@
   <li><strong>Backend:</strong> Firebase Authentication, Firebase Realtime Database, Firebase Storage</li>
   <li><strong>Database:</strong> Firebase Realtime Database</li>
   <li><strong>Deployment:</strong> APK (manual), Firebase Hosting (for assets)</li>
-  <li><strong>Project Status:</strong> Completed</li>
-  <li><strong>Completion Date:</strong> May 2025</li>
+  <strong>Project Status:</strong> Completed</li>
+  <strong>Completion Date:</strong> May 2025</li>
 </ul>
 
 
