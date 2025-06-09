@@ -24,16 +24,7 @@
 ---
 ## 💻 Tech Stack:
 
-<h3>Languages</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> JS</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24"/> TS</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24"/> Java</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="24"/> Kotlin</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> Python</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24"/> C++</span>
 
-</p>
 
 <h3>Frontend</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
@@ -42,6 +33,8 @@
 <span><img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" width="24"/> Tailwind CSS</span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24"/> React</span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="24"/> Bootstrap</span>
+    <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> JS</span>
+
 </p>
 
 <h3>Backend & APIs</h3>
@@ -49,6 +42,11 @@
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24"/> Node.js</span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="24"/> Firebase</span>
   <span><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="24"/> Postman</span>
+    <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="24"/> Kotlin</span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24"/> Java</span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24"/> TS</span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> Python</span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24"/> C++</span>
 </p>
 
 <h3>Databases</h3>
