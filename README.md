@@ -18,8 +18,8 @@
 ---
 ## 🕒 Currently
 
-- 🔭 Working on: [Real estate app ]
-- 🌱 Learning: [C++,C#,Unity,Chinese ]
+- 🔭 Working on: [Python (AI-related)]
+- 🌱 Learning: [Python for IA,Chinese ]
 
 ---
 ## 💻 Tech Stack:
