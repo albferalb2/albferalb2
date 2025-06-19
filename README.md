@@ -65,7 +65,7 @@
 <span><img src="https://cdn.simpleicons.org/github/ffffff" width="24"/> GitHub</span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="24"/> Android</span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="24"/> Godot</span>
-  <span><img src="https://cdn.simpleicons.org/make/1C1C1C" width="24"/> Make.com</span>
+<span><img src="https://cdn.simpleicons.org/make/8e44ad" width="24"/> Make.com</span>
 
 
 </p>
