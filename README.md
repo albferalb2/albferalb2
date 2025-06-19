@@ -19,7 +19,7 @@
 ## 🕒 Currently
 
 - 🔭 Working on: [Python (AI-related)]
-- 🌱 Learning: [Python for IA,Chinese ]
+- 🌱 Learning: [Python for IA,Chinese,Docker ]
 
 ---
 ## 💻 Tech Stack:
