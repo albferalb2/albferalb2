@@ -19,7 +19,7 @@
 ## 🕒 Currently
 
 - 🔭 Working on: [Python (AI-related)]
-- 🌱 Learning: [Python for IA,Chinese,Docker ]
+- 🌱 Learning: [Chinese,Docker,Make.com ,N8 ]
 
 ---
 ## 💻 Tech Stack:
@@ -65,6 +65,8 @@
 <span><img src="https://cdn.simpleicons.org/github/ffffff" width="24"/> GitHub</span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="24"/> Android</span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="24"/> Godot</span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="24"/> Godot</span>
+
 </p>
 
 
