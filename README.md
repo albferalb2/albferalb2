@@ -35,7 +35,6 @@
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/> HTML5</span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24"/> CSS3</span>
-<span><img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" width="24"/> Tailwind CSS</span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24"/> React</span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="24"/> Bootstrap</span>
     <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> JS</span>
@@ -49,7 +48,6 @@
   <span><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="24"/> Postman</span>
     <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="24"/> Kotlin</span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24"/> Java</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24"/> TS</span>
       <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> JS</span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> Python</span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24"/> C++</span>
@@ -70,7 +68,6 @@
 <span><img src="https://cdn.simpleicons.org/github/ffffff" width="24"/> GitHub</span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="24"/> Android</span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="24"/> Godot</span>
-<span><img src="https://cdn.simpleicons.org/make/8e44ad" width="24"/> Make.com</span>
 
 
 </p>
