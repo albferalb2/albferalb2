@@ -9,17 +9,22 @@
 ## 👨‍💻 About Me:
 
 -💻 Full stack developer passionate about software development and technology.
--🎮 Currently learning and exploring game development with Unity and C#.
--🌐 Experienced in building web and mobile applications, from backend to frontend.
+
+-🎮 Currently learning and exploring game development with Unity and Godot.
+
+-🌐 Experienced in building web and mobile applications, from backend to frontend .
+
 -🚀 Open to new challenges, team collaboration, and constant improvement.
+
 -📚 Fast learner, curious, and highly motivated to keep growing every day.
+
 -🛠️ Always committed to solving problems,I don’t stop until I find a solution.
 
 ---
 ## 🕒 Currently
 
-- 🔭 Working on: [Python (AI-related)]
-- 🌱 Learning: [Chinese,Docker,Make.com ,N8 ]
+- 🔭 Working on: [Python (AI-related) React]
+- 🌱 Learning: [REACT , Python , TS ]
 
 ---
 ## 💻 Tech Stack:
