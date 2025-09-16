@@ -118,8 +118,8 @@
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albferalb2&theme=tokyonight" alt="Lenguajes por repositorio"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=albferalb2&theme=tokyonight" alt="Lenguajes más commitados"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albferalb2&hide=html,css,scss&layout=compact&theme=tokyonight&langs_count=8" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=albferalb2&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estadísticas de GitHub"/>
 </p>
 
 ---
