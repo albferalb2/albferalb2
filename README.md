@@ -118,10 +118,8 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albferalb2&hide=html,css,scss&layout=compact&theme=tokyonight&langs_count=8" alt="Top Langs"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=albferalb2&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estadísticas de GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albferalb2&layout=compact&theme=tokyonight&hide=html,css,scss,tex&langs_count=10&card_width=500" alt="Top Langs"/>
 </p>
-
 ---
 
 ## 📫 How to reach me:
