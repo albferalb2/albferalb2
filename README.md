@@ -118,9 +118,9 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albferalb2&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=nombre-repo-a-excluir" alt="Top Langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albferalb2&theme=tokyonight" alt="Lenguajes por repositorio"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=albferalb2&theme=tokyonight" alt="Lenguajes más commitados"/>
 </p>
-
 
 ---
 
