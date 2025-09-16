@@ -23,7 +23,7 @@
 ---
 ## 🕒 Currently
 
-- 🔭 Working on: [Python (AI-related) React]
+- 🔭 Working on: [Python (AI-related) , React]
 - 🌱 Learning: [REACT , Python , TS ]
 
 ---
