@@ -94,21 +94,20 @@
 
 <h3><a href="https://github.com/albferalb2/FluencyAI" target="_blank" style="text-decoration: none; color: #3B82F6;">FluencyAI</a></h3>
 <p>
-FluencyAI es una aplicación de escritorio desarrollada con Electron + React + TypeScript diseñada para ayudar a aprender idiomas mediante conversación con IA, generación de vocabulario inteligente y estudio mediante flashcards.
-La aplicación permite practicar idiomas de forma interactiva mientras se construye automáticamente un sistema de vocabulario personalizado para el usuario.
+FluencyAI is a desktop application built with Electron + React + TypeScript, designed to help users learn languages through AI conversation, intelligent vocabulary generation, and flashcard-based study.
+The application allows users to practice languages interactively while automatically building a personalized vocabulary system for the learner.
 </p>
 
 <h4>Implemented Technologies</h4>
 <ul>
- <li><strong>Framework:</strong> Electron — aplicación de escritorio</li>
+  <li><strong>Framework:</strong> Electron — desktop application</li>
   <li><strong>Frontend:</strong> React + TypeScript</li>
   <li><strong>Build Tool:</strong> Vite</li>
   <li><strong>Database:</strong> Firebase Firestore</li>
   <li><strong>AI Integration:</strong> Google Gemini API</li>
-  <li><strong>Speech:</strong> Web Speech API (pronunciación de palabras)</li>
-  <li><strong>Deployment:</strong> Aplicación de escritorio multiplataforma</li>
+  <li><strong>Speech:</strong> Web Speech API (word pronunciation)</li>
+  <li><strong>Deployment:</strong> Cross-platform desktop application</li>
   <br>
-  
 </ul>
 
 
