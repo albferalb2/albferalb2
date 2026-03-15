@@ -10,6 +10,8 @@
 
 -💻 Full stack developer passionate about software development and technology.
 
+- 🤖 Currently learning and exploring Artificial Intelligence, as it is shaping the future of technology.
+
 -🎮 Currently learning and exploring game development with Unity and Godot.
 
 -🌐 Experienced in building web and mobile applications, from backend to frontend .
@@ -24,7 +26,7 @@
 ## 🕒 Currently
 
 - 🔭 Working on: [Python (AI-related) , React]
-- 🌱 Learning: [REACT , Python , TS ]
+- 🌱 Learning: [REACT , Python , TS , Chinese ]
 
 ---
 ## 💻 Tech Stack:
