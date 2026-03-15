@@ -92,22 +92,23 @@
 </ul>
 
 
-<h3><a href="https://github.com/albferalb2/Yubikey-Security" target="_blank" style="text-decoration: none; color: #3B82F6;">Yubikey-Security</a></h3>
+<h3><a href="https://github.com/albferalb2/FluencyAI" target="_blank" style="text-decoration: none; color: #3B82F6;">FluencyAI</a></h3>
 <p>
-  A browser-based simulation of YubiKey registration and management using the WebAuthn API. This project allows users to assign custom IDs to hardware security keys (like YubiKey), save credentials to local storage, and validate duplicates. The interface provides live feedback and ensures secure credential handling via `navigator.credentials.create()` and cryptographic challenges.
+FluencyAI es una aplicación de escritorio desarrollada con Electron + React + TypeScript diseñada para ayudar a aprender idiomas mediante conversación con IA, generación de vocabulario inteligente y estudio mediante flashcards.
+La aplicación permite practicar idiomas de forma interactiva mientras se construye automáticamente un sistema de vocabulario personalizado para el usuario.
 </p>
 
 <h4>Implemented Technologies</h4>
 <ul>
-  <li><strong>Frontend:</strong> HTML5, CSS3 (vanilla), JavaScript (ES6)</li>
-  <li><strong>Backend:</strong> — (all in-browser logic using WebAuthn)</li>
-  <li><strong>Security:</strong> WebAuthn API, FIDO2 simulation</li>
-  <li><strong>Storage:</strong> Browser Local Storage</li>
-  <li><strong>Deployment:</strong> Static HTML (GitHub Pages compatible)</li><br>
-  <strong>Project Status:</strong> Completed</li><br>
-  <strong>Completion Date:</strong> March 2025</li><br>
-  <p><a href="https://albferalb2.github.io/Yubikey-Security/" target="_blank">Deployment Page</a></p>
-
+ <li><strong>Framework:</strong> Electron — aplicación de escritorio</li>
+  <li><strong>Frontend:</strong> React + TypeScript</li>
+  <li><strong>Build Tool:</strong> Vite</li>
+  <li><strong>Database:</strong> Firebase Firestore</li>
+  <li><strong>AI Integration:</strong> Google Gemini API</li>
+  <li><strong>Speech:</strong> Web Speech API (pronunciación de palabras)</li>
+  <li><strong>Deployment:</strong> Aplicación de escritorio multiplataforma</li>
+  <br>
+  
 </ul>
 
 
